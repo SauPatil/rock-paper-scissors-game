@@ -22,7 +22,7 @@ h1{
     cursor: pointer;
     background-color: #081b31;
 }
-img{
+.choice img{
     height: 150px;
     width: 150px;
     object-fit: cover;
